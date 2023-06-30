@@ -70,6 +70,18 @@ h1 {
 h2 {
     font-family: var(---font);
     color: var(---font-color);
+        padding: 10px;
+        position: relative;
+        margin-top: -20px;
+        margin-right: 30px;
+        background-color: ;
+        justify-content: center;
+        border-style:dotted;
+        border-color: rgb(255, 255, 130);
+        border-radius: 7%;
+        background-color: rgb(31, 5, 43);
+
+
     }
 
     p {
@@ -81,7 +93,13 @@ h2 {
         padding: 10px;
         margin:10px;
         color: blueviolet;
+        
 
+    }
+
+    .pre {
+
+        background-color: blueviolet;
     }
     /* Footer */
    
